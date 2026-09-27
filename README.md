@@ -1,5 +1,9 @@
 # 💫 About Me:
-👋 Hi, I’m Hashir, a Software Engineering undergraduate with a strong interest in web development, AI-driven systems, and UI/UX analysis.<br><br>I enjoy building scalable web applications and research-oriented projects that solve real-world problems. I have hands-on experience with HTML, CSS, JavaScript, React, Tailwind CSS, Python, and MongoDB, and I’m currently working on my Final Year Project VisionMesh, an AI-powered UI/UX evaluation platform.<br><br>I’m passionate about learning new technologies, improving system design, and turning complex ideas into clean, user-friendly solutions.
+👋Hi, I'm Hashir, a Software Engineer with a strong interest in web development, AI-driven systems, and UI/UX analysis.<br><br>
+
+I enjoy building scalable web applications and research-oriented projects that solve real-world problems. I have hands-on experience with HTML, CSS, JavaScript, React, Tailwind CSS, Python, and MongoDB, and I recently completed my Final Year Project, VisionMesh, an AI-powered UI/UX evaluation platform.<br><br>
+
+I'm passionate about learning new technologies, improving system design, and turning complex ideas into clean, user-friendly solutions.<br><br>
 
 
 ## 🌐 Socials:
